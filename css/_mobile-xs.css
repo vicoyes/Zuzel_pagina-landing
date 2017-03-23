@@ -1,0 +1,8 @@
+@media screen and (max-width: 413px) {
+  .principal {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column; } }
